@@ -13,11 +13,11 @@ They are organized in categories.
 1. [What is Fermat?](https://www.youtube.com/watch?v=_Ovgf4GOues)
 2. [Which basic Apps are built-in within Fermat?](https://www.youtube.com/watch?v=oqkbXcFHmj4)
 3. [Which Apps Suite is also included in Fermat?](https://www.youtube.com/watch?v=tvitElE13Ws)
-4. Which is the innovation of Fermat Apps?
-5. What is P2P Economy?
-6. What is the new paradigm proposed by Fermat?
-7. Which is the profit for developers?
-8. Why is Fermat open ?
+4. [Which is the innovation of Fermat Apps?](https://www.youtube.com/watch?v=BQTeS9ZvxTI)
+5. [What is P2P Economy?](https://www.youtube.com/watch?v=nPESSr2ww5M)
+6. [What is the new paradigm proposed by Fermat?](https://www.youtube.com/watch?v=7q3tXmO0KY0)
+7. [Which is the profit for developers?](https://www.youtube.com/watch?v=ZNms-kTcLwc)
+8. [Why is Fermat open ?](https://www.youtube.com/watch?v=7oqgl4Omjt0)
 9. What is a Fermat component ?
 10. How is the Fermat built? (Fermat architecture)
 11. What for do we use platforms in Fermat?
