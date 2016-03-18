@@ -10,19 +10,19 @@ They are organized in categories.
 2. History of Fermat evolution as shown in the Github repository<br>[History of Fermat repo](https://www.youtube.com/watch?v=86m88YG1Mxk)
 
 ## Fermat FAQ in videos (Frequently Asked Questions)
-1. [What is Fermat?](https://www.youtube.com/watch?v=_Ovgf4GOues)
-2. [Which basic Apps are built-in within Fermat?](https://www.youtube.com/watch?v=oqkbXcFHmj4)
-3. [Which Apps Suite is also included in Fermat?](https://www.youtube.com/watch?v=tvitElE13Ws)
-4. [Which is the innovation of Fermat Apps?](https://www.youtube.com/watch?v=BQTeS9ZvxTI)
-5. [What is P2P Economy?](https://www.youtube.com/watch?v=nPESSr2ww5M)
-6. [What is the new paradigm proposed by Fermat?](https://www.youtube.com/watch?v=7q3tXmO0KY0)
-7. [Which is the profit for developers?](https://www.youtube.com/watch?v=ZNms-kTcLwc)
-8. [Why is Fermat open ?](https://www.youtube.com/watch?v=7oqgl4Omjt0)
-9. What is a Fermat component ?
-10. How is the Fermat built? (Fermat architecture)
-11. What for do we use platforms in Fermat?
-12. What is an uncontrolled environment ?
-13. What  is a workflow ?
+1. [What is Fermat?](https://www.youtube.com/watch?v=Fq8VYBJtzsw)
+2. [Which basic Apps are built-in within Fermat?](https://www.youtube.com/watch?v=7WT5S4u8Ck0)
+3. [Which Apps Suite is also included in Fermat?](https://www.youtube.com/watch?v=BhSkCN0CBGM)
+4. [Which is the innovation of Fermat Apps?](https://www.youtube.com/watch?v=0Cx8MP1Llzk)
+5. [What is P2P Economy?](https://www.youtube.com/watch?v=r6EMIU_ELFI)
+6. [What is the new paradigm proposed by Fermat?](https://www.youtube.com/watch?v=Nbo_YG_M95M)
+7. [Which is the profit for developers?](https://www.youtube.com/watch?v=244MuvMaXaQ)
+8. [Why is Fermat open ?](https://www.youtube.com/watch?v=6USiwxQe-Uk)
+9. [What is a Fermat component?](https://www.youtube.com/watch?v=cEQgfO1NICM)
+10. [How is the Fermat built? (Fermat architecture)](https://www.youtube.com/watch?v=IZRMRsMAP7I)
+11. [What for do we use platforms in Fermat?](https://www.youtube.com/watch?v=XxjSQJOJyQ0)
+12. [What is an uncontrolled environment?](https://www.youtube.com/watch?v=Igt2COlhDWo)
+13. [What  is a workflow ?](https://www.youtube.com/watch?v=DyUmHkQiYMs)
 
 
 
