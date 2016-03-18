@@ -17,7 +17,7 @@ They are organized in categories.
 5. [What is P2P Economy?](https://www.youtube.com/watch?v=r6EMIU_ELFI)
 6. [What is the new paradigm proposed by Fermat?](https://www.youtube.com/watch?v=Nbo_YG_M95M)
 7. [Which is the profit for developers?](https://www.youtube.com/watch?v=244MuvMaXaQ)
-8. [Why is Fermat open ?](https://www.youtube.com/watch?v=6USiwxQe-Uk)
+8. [Why is Fermat open ?](https://www.youtube.com/watch?v=ZYQAWFE1Pt4)
 9. [What is a Fermat component?](https://www.youtube.com/watch?v=cEQgfO1NICM)
 10. [How is the Fermat built? (Fermat architecture)](https://www.youtube.com/watch?v=IZRMRsMAP7I)
 11. [What for do we use platforms in Fermat?](https://www.youtube.com/watch?v=XxjSQJOJyQ0)
