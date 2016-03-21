@@ -24,5 +24,8 @@ They are organized in categories.
 12. [What is an uncontrolled environment?](https://www.youtube.com/watch?v=Igt2COlhDWo)
 13. [What  is a workflow ?](https://www.youtube.com/watch?v=DyUmHkQiYMs)
 
+## For Developers
+1. [Why developing in Fermat ?] (https://www.youtube.com/watch?v=87CNZups6OM)
+
 
 
