@@ -23,6 +23,8 @@ They are organized in categories.
 11. [What for do we use platforms in Fermat?](https://www.youtube.com/watch?v=XxjSQJOJyQ0)
 12. [What is an uncontrolled environment?](https://www.youtube.com/watch?v=Igt2COlhDWo)
 13. [What  is a workflow ?](https://www.youtube.com/watch?v=DyUmHkQiYMs)
+14. [How does Fermat ecosystem add new code?](https://www.youtube.com/watch?v=DcZLYiS3OcQ)
+15. [How is Fermat innovating in the analysis stage of software coding?] (https://www.youtube.com/watch?v=kSK5iY1XXlo)
 
 ## For Developers
 1. [Why developing in Fermat ?] (https://www.youtube.com/watch?v=87CNZups6OM)
