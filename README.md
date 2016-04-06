@@ -9,7 +9,12 @@ They are organized in categories.
 1. Initial concept and video intro (outdated) <br> [Intro Video](https://youtu.be/bLiqhTrEWMU)
 2. History of Fermat evolution as shown in the Github repository<br>[History of Fermat repo](https://www.youtube.com/watch?v=86m88YG1Mxk)
 
-## Fermat FAQ in videos (Frequently Asked Questions)
+## FAQ in videos (Frequently Asked Questions)
+### For Non-technical People (General Audience)
+1.[General Presentation]
+2.[The Fermat Network]
+
+### For Technical People
 1. [What is Fermat?](https://www.youtube.com/watch?v=Fq8VYBJtzsw)
 2. [Which basic Apps are built-in within Fermat?](https://www.youtube.com/watch?v=7WT5S4u8Ck0)
 3. [Which Apps Suite is also included in Fermat?](https://www.youtube.com/watch?v=BhSkCN0CBGM)
