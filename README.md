@@ -13,8 +13,8 @@ They are organized in categories.
 
 ### For Non-technical People (General Audience)
 
-1. [General Presentation]
-2. [The Fermat Network]
+1. [General Presentation](https://www.youtube.com/watch?v=njmg7ScVmjM)
+2. [The Fermat Network](https://www.youtube.com/watch?v=xQnJeqfrKTk)
 
 ### For Technical People
 1. [What is Fermat?](https://www.youtube.com/watch?v=Fq8VYBJtzsw)
