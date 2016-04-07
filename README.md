@@ -6,17 +6,23 @@ This repository gives you a direct access to the videos generated within Fermat.
 They are organized in categories.
 
 ## Videos regarding the evolution of Fermat project
-1.Initial concept and video intro (outdated) <br> [Intro Video](https://youtu.be/bLiqhTrEWMU)
-2. History of Fermat evolution as shown in the Github repository<br>[History of Fermat repo](https://www.youtube.com/watch?v=86m88YG1Mxk)
+1. Initial concept and video intro (outdated) [Intro Video](https://youtu.be/bLiqhTrEWMU) <br> 
+2. History of Fermat evolution as shown in the Github repository [History of Fermat repo](https://www.youtube.com/watch?v=86m88YG1Mxk)<br>
 
 ## FAQ in videos (Frequently Asked Questions)
 
-### For Non-technical People (General Audience)
+### For General Audience (Non-technical)
 
 1. [General Presentation](https://www.youtube.com/watch?v=njmg7ScVmjM)
 2. [The Fermat Network](https://www.youtube.com/watch?v=xQnJeqfrKTk)
 
-### For Technical People
+### For Developers (Technical)
+
+#### Intro
+1. [Why developing in Fermat ?] (https://www.youtube.com/watch?v=87CNZups6OM)
+ 
+
+#### FAQ in video for developers
 1. [What is Fermat?](https://www.youtube.com/watch?v=Fq8VYBJtzsw)
 2. [Which basic Apps are built-in within Fermat?](https://www.youtube.com/watch?v=7WT5S4u8Ck0)
 3. [Which Apps Suite is also included in Fermat?](https://www.youtube.com/watch?v=BhSkCN0CBGM)
@@ -33,8 +39,8 @@ They are organized in categories.
 14. [How does Fermat ecosystem add new code?](https://www.youtube.com/watch?v=DcZLYiS3OcQ)
 15. [How is Fermat innovating in the analysis stage of software coding?] (https://www.youtube.com/watch?v=kSK5iY1XXlo)
 
-## For Developers
-1. [Why developing in Fermat ?] (https://www.youtube.com/watch?v=87CNZups6OM)
+
+
 
 
 
