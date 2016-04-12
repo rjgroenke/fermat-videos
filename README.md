@@ -7,7 +7,7 @@ They are organized in categories.
 
 ## Videos regarding the evolution of Fermat project
 1. Initial concept and video intro (outdated) [Intro Video](https://youtu.be/bLiqhTrEWMU) <br> 
-2. History of Fermat evolution as shown in the Github repository [History of Fermat repo](https://www.youtube.com/watch?v=86m88YG1Mxk)<br>
+2. History of Fermat evolution as shown in the Github repository [History of Fermat repo](https://www.youtube.com/watch?v=qxRZlUGNEx0)<br>
 
 ## FAQ in videos (Frequently Asked Questions)
 
